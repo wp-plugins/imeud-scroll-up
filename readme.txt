@@ -8,7 +8,7 @@ Stable tag: -
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-This plugin easy to get to the top.
+Easy to get to the top.
 
 == Description ==
 
@@ -24,6 +24,19 @@ e.g.
 
 1. Upload `m-scroll-topup` to the `/wp-content/plugins/` directory
 2. Activate the plugin through the 'Plugins' menu in WordPress
+
+== Frequently Asked Questions ==
+
+= Which version is compatible with Wordpress? =
+
+4.1 or higher (not lower test version).
+
+== Screenshots ==
+1. Overview
+2. Preview (Animation)
+
+== Upgrade Notice ==
+Initial version.
 
 == Changelog == 
 = 1.1 =
