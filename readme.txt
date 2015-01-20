@@ -8,7 +8,7 @@ Stable tag: -
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-This plugin easy to get to the top.
+Easy to get to the top.
 
 == Description ==
 
@@ -33,8 +33,11 @@ e.g.
 
 == Screenshots ==
 
-1. screenshot-1.jpg
-2. screenshot-2.gif
+1. Overview
+2. Preview (Animation)
+
+== Upgrade Notice ==
+Initial version.
 
 == Changelog == 
 = 1.1 =
