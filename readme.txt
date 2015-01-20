@@ -2,8 +2,8 @@
 Contributors: Main53 Solutions
 Donate link: http://www.main53.com/wordpress/
 Tags: scroll, up, shortcodes
-Requires at least: 1.1
-Tested up to: -
+Requires at least: 4.1 (not lower test).
+Tested up to: 4.1
 Stable tag: -
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -32,7 +32,6 @@ e.g.
 4.1 or higher (not lower test version).
 
 == Screenshots ==
-
 1. Overview
 2. Preview (Animation)
 
