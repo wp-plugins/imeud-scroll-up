@@ -1,7 +1,7 @@
 === iMeud Scroll Up ===
-Contributors: Main53 Solutions
+Contributors: Kittichai
 Donate link: http://www.main53.com/wordpress/
-Tags: scroll, up, shortcodes
+Tags: imeud, scroll top, top, up, scroll to top, scroll up, wordpress scroll up, back to top, link to top, navigation, scroll, scroll back to top, wordpress
 Requires at least: 4.1 (not lower test).
 Tested up to: 4.1
 Stable tag: -
@@ -39,6 +39,8 @@ e.g.
 Initial version.
 
 == Changelog == 
+= 1.2 =
+* Optimize Script
 = 1.1 =
 * Plugin URI
 * Clean js Script

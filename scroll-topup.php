@@ -3,7 +3,7 @@
 /*
 	Plugin Name: iMeud Scroll Up
 	Plugin URI:  http://main53.com/wordpress/scroll-up/
-	Author:      Main53 Solutions
+	Author:      Kittichai
 	Author URI:  http://main53.com
 	Version:     1.1
 	Description: This plugin easy to get to the top.
