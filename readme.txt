@@ -40,7 +40,7 @@ Initial version.
 
 == Changelog == 
 = 1.2 =
-* Optimize Script
+* Compress script
 = 1.1 =
 * Plugin URI
 * Clean js Script

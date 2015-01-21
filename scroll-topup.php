@@ -5,7 +5,7 @@
 	Plugin URI:  http://main53.com/wordpress/scroll-up/
 	Author:      Kittichai
 	Author URI:  http://main53.com
-	Version:     1.1
+	Version:     1.2
 	Description: This plugin easy to get to the top.
 */
 /******************************************************************/
